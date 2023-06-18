@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\1\Desktop\508\main.c(40,16): warning C4013: 'mainscreen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\1\Desktop\508\main.c(76,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\1\Desktop\508\main.c(115,11): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Project14.vcxproj -> C:\Users\1\source\repos\Project14\Debug\Project14.exe
